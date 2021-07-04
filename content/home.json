@@ -1,11 +1,10 @@
 {
-  "meta_title": "",
+  "meta_title": "LOJAS ICHIN - Site de vendas para Brindes e Presentes",
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": []
+      "type": "responsive-banner",
+      "img": "/img/uploads/bemvindo-2-.jpg"
     },
     {
       "type": "info-bar",
