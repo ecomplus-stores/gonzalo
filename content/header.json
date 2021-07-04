@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Aproveite nossos descontos de até 50%!",
     "link": ""
   },
   "contacts_stripe": {
@@ -8,10 +8,6 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "",
-        "link": ""
       }
     ],
     "phone_wpp": true,
