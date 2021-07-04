@@ -1,24 +1,24 @@
 {
-  "store_id": 4105,
-  "name": "gonzalo",
   "domain": "gonzalo.netlify.app",
-  "short_name": "gonzalo",
-  "description": "gonzalo",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0dc809",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/gonzalo",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Lojas Ichin",
+  "short_name": "Lojas Ichin",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/gonzalo"
+  "secondary_color": "#032c6d",
+  "icon": "/img/icon.png",
+  "store_id": 4105,
+  "description": "Site de vendas para Brindes e Presentes",
+  "large_icon": "/img/large-icon.png"
 }
