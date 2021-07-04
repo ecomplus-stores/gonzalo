@@ -8,17 +8,17 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/gonzalo",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-ichin.png",
   "name": "Lojas Ichin",
   "short_name": "Lojas Ichin",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-ichin.png",
   "country_code": "BR",
   "secondary_color": "#032c6d",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-ichin.png",
   "store_id": 4105,
   "description": "Site de vendas para Brindes e Presentes",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/marca-ichin-512.png"
 }
