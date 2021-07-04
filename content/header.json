@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +10,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "",
+        "link": ""
       }
     ],
     "phone_wpp": true,
