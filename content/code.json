@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".product__buy  {display: none;}",
   "html_head": "",
   "html_body": ""
 }
