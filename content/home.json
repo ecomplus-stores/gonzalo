@@ -15,7 +15,8 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 24,
-      "page": 2
+      "page": 2,
+      "sort": "news"
     }
   ]
 }
