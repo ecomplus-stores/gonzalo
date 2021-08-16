@@ -13,10 +13,17 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "60eed896d505781f1a7d0c73:categories:Utilidades Domésticas:/utilidades-domesticas",
       "limit": 24,
       "page": 1,
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610e775833f3ce442f86094e:categories:Artigos para banheiro:/artigos-para-banheiro"
     }
   ]
 }
