@@ -37,6 +37,10 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "custom-content",
+      "markdown": "**MARCAS PARCEIRAS**"
     }
   ]
 }
