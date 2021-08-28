@@ -4,7 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/bemvindo-2-.jpg"
+      "img": "/img/uploads/shopee.jpg",
+      "link": "https://shopee.com.br/lojasichin"
     },
     {
       "type": "info-bar",
