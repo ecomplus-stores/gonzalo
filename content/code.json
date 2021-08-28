@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy  {display: none;}\n.shipping-calculator {display: none;}\n.product-card__buy {display: none;}\n.info-bar {background-color: #05085d !important;}\n/* menu lateral hover */\n.menu__item:hover {\n    text-decoration: none;\n    background: #05085d;\n    color: #ffffff;}\n.top-bar {background: #05085d;}\n.top-bar__nav {color: #fff;}\n.top-bar__page-links a {text-decoration: underline;}\n",
+  "css": ".product__buy  {display: none;}\n.shipping-calculator {display: none;}\n.product-card__buy {display: none;}\n.info-bar {background-color: #05085d !important;}\n/* menu lateral hover */\n.menu__item:hover {\n    text-decoration: none;\n    background: #05085d;\n    color: #ffffff;}\n.top-bar {background: #05085d !important;}\n.top-bar__nav {color: #fff;}\n.top-bar__page-links a {text-decoration: underline;}\n",
   "html_head": "",
   "html_body": ""
 }
