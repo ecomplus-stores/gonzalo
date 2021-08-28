@@ -35,7 +35,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "**MARCAS PARCEIRAS**"
+      "markdown": "<!DOCTYPE html>\r\n\r\n<html lang=\"pt-br\">\r\n\r\n<head>\r\n\r\n<meta charset=\"utf-8\"/>\r\n\r\n\r\n\r\n</head>\r\n\r\n<body>\n<h1 style=\"color:blue;text-align:center;\">MARCAS PARCEIRAS</h1>\r\n\n\r\n\r\n</body>\r\n\r\n</html>\r\n"
     },
     {
       "type": "brands-carousel",
