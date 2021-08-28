@@ -32,6 +32,11 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611a7889cfbcd970597f5c28:categories:Esportes e Lazer:/esportes-e-lazer"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
