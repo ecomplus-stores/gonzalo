@@ -1,7 +1,7 @@
 {
   "domain": "gonzalo.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#27538c",
+  "primary_color": "#05085d",
   "theme": {
     "bootswatch": "simplex",
     "custom": "clean-white"
