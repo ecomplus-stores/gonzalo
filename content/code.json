@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy  {display: none;}\n.shipping-calculator {display: none;}\n.product-card__buy {display: none;}\n.main .info-bar {background-color: #05085d;}",
+  "css": ".product__buy  {display: none;}\n.shipping-calculator {display: none;}\n.product-card__buy {display: none;}\n.info-bar {background-color: #05085d;}",
   "html_head": "",
   "html_body": ""
 }
